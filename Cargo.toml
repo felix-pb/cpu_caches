@@ -1,0 +1,9 @@
+[package]
+name = "benchmark"
+version = "0.1.0"
+authors = ["Félix Poulin-Bélanger <f.poulinbelanger@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.8"
+scoped_threadpool = "0.1"
